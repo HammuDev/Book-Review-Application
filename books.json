@@ -1,0 +1,36 @@
+[
+  {
+      "id": 1,
+      "title": "Book 1",
+      "author": "Author 1",
+      "ISBN": "1234567890",
+      "reviews": [
+        {
+          "user": "AliceGreen",
+          "rating": 4,
+          "comment": "Holden Caulfield is a memorable character."
+        }
+      ]
+  },
+  {
+      "id": 2,
+      "title": "Book 2",
+      "author": "Author 2",
+      "ISBN": "0987654321",
+      "reviews": []
+  },
+  {
+      "id": 3,
+      "title": "Book 3",
+      "author": "Author 1",
+      "ISBN": "9876543210",
+      "reviews": []
+  },
+  {
+      "id": 4,
+      "title": "Book 4",
+      "author": "Author 3",
+      "ISBN": "5678901234",
+      "reviews": []
+  }
+]
